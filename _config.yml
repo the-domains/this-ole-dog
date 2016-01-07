@@ -1,6 +1,6 @@
 name: this ole dog
 favicon: null
-layout_spectrum: 0.6353345315437764
+layout_spectrum: 0.29268
 typography_spectrum: 0.5007936886977404
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#c2bba8'
+    - '#000000'
+    - '#958877'
+    - '#b73906'
+    - '#443e28'
   brandStrength: 0.1759863554034382
   lightness: 0.8151315120048821
   saturation: 0.8192679616622627
