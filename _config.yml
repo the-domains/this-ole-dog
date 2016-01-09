@@ -1,6 +1,6 @@
 name: this ole dog
 favicon: null
-layout_spectrum: 0.10494
+layout_spectrum: 0.12297
 typography_spectrum: 0.13423
 title: This Ole Dog
 cta:
@@ -24,6 +24,6 @@ color:
     - '#e96638'
   brandStrength: 0.375
   lightness: 0.75
-  saturation: 0.6875
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
