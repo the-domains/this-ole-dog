@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T17:11:18.773Z'
-dateModified: '2016-01-09T17:11:04.610Z'
+datePublished: '2016-01-09T17:21:50.828Z'
+dateModified: '2016-01-09T17:21:36.615Z'
 title: My walks with Emma
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: my-walks-with-emma/index.html
-_type: Blurb
+_type: Article
 
 ---
 We always took our stroll the moment I got home. Most days Emma was waiting outside the front door and would follow me inside to the kitchen. That's where I'd grab a handful of dog biscuits from the cut-glass dog cookie jar. To Emma's ears, whenever it was lifted and slid it back into place, the jar's frosted glass stopper signaled that it was "time to go". Emma was ready.
