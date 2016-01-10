@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T17:10:20.873Z'
-dateModified: '2016-01-10T17:10:12.224Z'
+datePublished: '2016-01-10T17:59:54.641Z'
+dateModified: '2016-01-10T17:59:48.206Z'
 title: My walks with Emma
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -26,5 +26,9 @@ We always took our stroll the moment I got home. Most days Emma was waiting outs
 
 When cars approached as we walked along the rural street, we'd step aside, stop, and let them pass. And each time a car passed Emma took her seat and waited to be served. No pleading. No pawing. No snatching the biscuit from my hand. When offered, she politely accepted. It was a rite that we performed daily for nearly 12 years. 
 
-It's easy to exaggerate our relationship beyond the bond that most humans feel for a dog. There are thousands of examples of mutual devotion and extreme sacrifice that exceed my experience with Emma. But I was lucky to have such a patient and dedicated mentor and I'm grateful.
+It's easy to exaggerate our relationship beyond the bond that most humans feel for a dog. There are thousands of examples of mutual devotion and extreme sacrifice that exceed my experience with Emma. I'm lucky to have had such a patient and dedicated mentor, and I feel that now it's my turn to return the favor. 
+
+While Emma was the only mentor that I've had, I have been a student, a member of athletic teams and "the new guy" in various businesses. In each instance I learned the ropes with some help, but I would have appreciated having a mentor if I'd known one was available or how to find one.
+
+This is the first of an unknown number of periodic observations about the act of mentoring and those who mentor. I don't intend to formally research the subject. Just think of this as a stroll and a one-sided conversation. Bring your own biscuits.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d85b4d-0ed5-4921-8a35-bfd49bca74ba.jpg)
