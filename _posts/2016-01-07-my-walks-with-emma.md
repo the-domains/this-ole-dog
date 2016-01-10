@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T16:21:43.394Z'
-dateModified: '2016-01-10T16:02:48.523Z'
+datePublished: '2016-01-10T17:07:18.821Z'
+dateModified: '2016-01-10T17:05:41.343Z'
 title: My walks with Emma
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: my-walks-with-emma/index.html
 _type: Blurb
 
 ---
