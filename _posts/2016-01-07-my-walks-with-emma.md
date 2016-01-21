@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:22:24.494Z'
-dateModified: '2016-01-21T20:22:20.520Z'
+datePublished: '2016-01-21T23:05:55.298Z'
+dateModified: '2016-01-21T23:05:46.798Z'
 title: My walks with Emma
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -22,13 +22,13 @@ publisher:
 _type: Blurb
 
 ---
-I'm tempted to say that my feelings for Emma are beyond comprehension. But the bond that can form between dogs and humans is well known and well documented. I'll just say that Emma and I were a perfect match because we shared our 'best selves' with each other whenever we were together.
+I'm tempted to say that my feelings for Emma are beyond comprehension, but I realize that close bonds between dogs and humans are established fact. I'll just say that Emma and I made a perfect pair because our 'best selves' were always present when we were together.
 
-I hear and read the words, mentor and mentoring, more frequently today than I used to. When I was an entrepreneur, and a banker before that, none of my peers had a mentor. Sure there was the "good ole boys network", but that was different. 
+Emma was the perfect mentor. She knew how to lead me without being obvious. She accomdated my introspection with supportive silence. And she never resisted taking the long-way-round when I was lost. 
 
-Emma was the perfect mentor. She could lead without directing. She honored introspection in silence. And she never objected to taking the long-way-round when the route was uncertain.
+You hear the terms, mentor and mentoring, more frequently today than you used to. In all my years as a banker and an entrepreneur, I never had a mentor and none of my peers had one either. The "good ole boys" network existed, but that was different. Now it seems that mentors are everwhere. Especially if you are starting a tech business.  Today, mentors even come packaged with seed funding provided by startup accelerators.
 
-Thanks to Emma, I think I'm ready to extend the mentor's hand. Think of this blog as a one-sided, meandering conversation about mentoring. 
+Thanks to the lessons I learned from Emma, this ole dog is following the mentors' trail.  Think of this blog as a one-sided, meandering conversation about mentoring. 
 
 Leashes optional.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d85b4d-0ed5-4921-8a35-bfd49bca74ba.jpg)
