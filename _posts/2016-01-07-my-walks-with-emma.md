@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:07:20.183Z'
-dateModified: '2016-01-21T20:06:21.529Z'
+datePublished: '2016-01-21T20:19:19.681Z'
+dateModified: '2016-01-21T20:19:16.137Z'
 title: My walks with Emma
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -26,9 +26,9 @@ I'm tempted to say that my feelings for Emma are beyond comprehension. But the b
 
 I hear and read the words, mentor and mentoring, more frequently today than I used to. When I was an entrepreneur, and a banker before that, none of my peers had a mentor. Sure there was the "good ole boys network", but that was different. 
 
-So now I'm ready to share some of what I learned from my ole dog, Emma. She was the perfect mentor. She could lead without directing. She honored introspection in silence. And she never objected to taking the long-way-round when the destination was unclear.
+Emma was the perfect mentor. She could lead without directing. She honored introspection in silence. And she never objected to taking the long-way-round when the route was uncertain.
 
-Think of this as a one-sided conversation about mentoring while taking meandering stroll. 
+I think I'm ready to extend the mentor's hand. Think of this blog as a one-sided, meandering conversation about mentoring. 
 
 Leashes optional.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d85b4d-0ed5-4921-8a35-bfd49bca74ba.jpg)
