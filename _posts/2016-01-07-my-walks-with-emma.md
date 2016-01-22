@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:33:23.640Z'
+datePublished: '2016-01-22T17:33:23.667Z'
 dateModified: '2016-01-22T17:33:07.636Z'
 title: "Walking the mentors' trail"
 author: []
