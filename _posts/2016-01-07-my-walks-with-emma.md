@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:25:59.668Z'
-dateModified: '2016-01-22T17:25:42.710Z'
-title: My walks with Emma
+datePublished: '2016-01-22T17:33:23.640Z'
+dateModified: '2016-01-22T17:33:07.636Z'
+title: "Walking the mentors' trail"
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
 published: true
