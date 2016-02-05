@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T17:36:26.376Z'
-dateModified: '2016-01-22T17:36:17.542Z'
+datePublished: '2016-02-05T17:32:48.299Z'
+dateModified: '2016-02-05T17:32:09.947Z'
 title: "Walking the mentors' trail"
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -21,10 +22,10 @@ publisher:
 _type: Blurb
 
 ---
-I'm tempted to say that my feelings for Emma are beyond explanation. But I'll just mention that our 'best selves' were always present during our daily walks.
+Emma and I only allowed our best selves to be present during our daily walks. That was a commitment we shared for nearly twelve years.
 
-Emma was a skilled mentor. She knew how to lead without being pushy. She encouraged introspection with thoughtful silence. And she never complained about having to take the long way when I got lost. 
+At first I assumed that I was accomodating her because it took me a while to realize that Emma was a natural mentor. She lead without insisting. Accomodated introspection with silence. And readily accepted the longer route when I was lost. I'm just beginning to appreciate some of the lessons that she left to me.
 
-You hear the terms, mentor and mentoring, more frequently today than you used to. In all my years as a banker and an entrepreneur, I never had a mentor. And none of my peers had one either. The "good ole boys" network existed, but that was different. Now it seems that mentors are everywhere. Today, mentors even come packaged with seed funding provided by some startup accelerators. 
+You hear the terms, mentor and mentoring, more frequently today than you used to. In all my years as a banker and an entrepreneur I never had a mentor. The "good ole boys" network existed, but that was different. Now it seems that mentors are everywhere. Many startup accelerators even package mentors with seed investment offers. 
 
-This ole dog plans to take up where Emma left me on the mentors' trail. I hope you will join me as I explore the act of mentoring and meet some mentors and proteges along the way. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/428f8b49-cf93-48a8-b0ef-947ac4fb9a90.jpg)
+I'm older and more capable of reflection these days, and would like to continue where Emma dropped me off. I invite you to join me for a hike along the mentor's trail. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/428f8b49-cf93-48a8-b0ef-947ac4fb9a90.jpg)
