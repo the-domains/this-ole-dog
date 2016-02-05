@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T17:35:57.980Z'
-dateModified: '2016-02-05T17:35:12.286Z'
+datePublished: '2016-02-05T17:39:44.270Z'
+dateModified: '2016-02-05T17:39:40.455Z'
 title: "Walking the mentor's trail"
 author: []
 sourcePath: _posts/2016-01-07-my-walks-with-emma.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 Emma and I only allowed our best selves to be present during our daily walks. That was a commitment we shared for nearly twelve years.
 
-At first I assumed that I was accommodating her because it took me a while to realize that Emma was a natural mentor. She lead without insisting. Accommodated introspection with silence. And readily accepted the longer route when I was lost. I'm just beginning to appreciate some of the lessons that she left to me.
+At first I assumed that I was accommodating her needs because it took me a while to realize that Emma was a natural mentor. She lead without insisting. Accommodated introspection with silence. And readily accepted the longer route when I was lost. I'm just beginning to appreciate some of the lessons that she left to me.
 
 You hear the terms, mentor and mentoring, more frequently today than you used to. In all my years as a banker and an entrepreneur I never had a mentor. The "good ole boys" network existed, but that was different. Now it seems that mentors are everywhere. Many startup accelerators even package mentors with seed investment offers. 
 
